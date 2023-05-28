@@ -13,19 +13,17 @@ The Game of Life is a cellular automaton that operates on a grid of cells, evolv
 
 1. Clone the repository or download the source code files.
 
-2. Ensure that you have Python installed on your system. You can download Python from the official website: [https://www.python.org/downloads/](https://www.python.org/downloads/)
+2. Open a terminal or command prompt and navigate to the directory containing the source code files.
 
-3. Open a terminal or command prompt and navigate to the directory containing the source code files.
+3. Install the required dependencies (Tkinter is typically included with Python).
 
-4. Install the required dependencies (Tkinter is typically included with Python).
-
-5. Run the following command to start the Game of Life program:
+4. Run the following command to start the Game of Life program:
 
    ```shell
    python3 life.py
    ```
 
-6. The program will open a new window displaying the graphical representation of the Game of Life. The cells will evolve and change over time based on the rules of the game.
+5. The program will open a new window displaying the graphical representation of the Game of Life. The cells will evolve and change over time based on the rules of the game.
 
 ## Usage
 
