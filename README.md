@@ -1,5 +1,3 @@
-Certainly! Here's an example README file for the Game of Life program:
-
 # Game of Life
 
 The Game of Life is a cellular automaton that operates on a grid of cells, evolving over time based on a set of rules. This program provides a simplified implementation of the Game of Life using Python and Tkinter for the graphical user interface.
