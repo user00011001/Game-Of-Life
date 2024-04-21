@@ -23,5 +23,3 @@ Game of Life is a Python implementation of the classic cellular automaton simula
 ## Acknowledgements
 
 - The Game of Life was invented by John Conway.
-- This implementation was inspired by various online resources and tutorials.
-
